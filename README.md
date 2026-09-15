@@ -1,5 +1,3 @@
-
-Machine Learning Banner
 📊 Datasets_ML
 A curated collection of high-quality datasets for Machine Learning, Deep Learning, and Data Science projects.
 
